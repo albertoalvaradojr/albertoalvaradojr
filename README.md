@@ -1,6 +1,6 @@
 
 <h1 style="color: green">About Me</h1>
-I am a self-taught Software Developer with 4+ years of industry experience and a passion for creating unique and inclusive games. I am highly
+I am a self-taught Software Developer with 3+ years of industry experience and a passion for creating unique and inclusive games. I am highly
 proficient in C#, C++, Python, HTML, CSS and JavaScript, with a strong ability to write high-quality code. I excel in collaborating with team members to achieve design goals and ensure target level of polish and performance. 
 I am self-directed and autonomous worker, able to effectively manage time and communicate in a remote working environment. 
 
