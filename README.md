@@ -7,7 +7,7 @@ proficient in C#, C++, Python, HTML, CSS and JavaScript, with a strong ability t
 I am self-directed and autonomous worker, able to effectively manage time and communicate in a remote working environment. 
 
 <br>
-
+<br>
 Overall, I have a passion for programming and game development, and every bug that comes with it. 🪲
 
 
