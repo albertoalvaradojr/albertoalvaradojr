@@ -1,4 +1,3 @@
-<!-- add demo video -->
 
 <div style="position:relative;width:fit-content;height:fit-content;">
             <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/KBiiAvC85p8?utm_source=embed&utm_medium=embed&utm_campaign=watch">
