@@ -1,10 +1,8 @@
 
-<div style="position:relative;width:fit-content;height:fit-content;">
-            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/KBiiAvC85p8?utm_source=embed&utm_medium=embed&utm_campaign=watch">
-                <img loading="lazy" style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
-            </a>
-            <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/KBiiAvC85p8/embed" width="640" height="360"></iframe>
-</div>
+<a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/KBiiAvC85p8?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+    <img loading="lazy" style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
+</a>
+<iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/KBiiAvC85p8/embed" width="640" height="360"></iframe>
 
 <h1 style="color: green">About Me</h1>
 I am a self-taught Software Developer with 3+ years of industry experience and a passion for creating unique and inclusive games. I am highly
