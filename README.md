@@ -2,7 +2,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vaQVEPTH95M?si=8gZLuR_Ai-b1CIW1&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
 <h1 style="color: green">About Me</h1>
-I am a self-taught Software Developer with 3+ years of industry experience and a passion for creating unique and inclusive games. I am highly
+Gameplay Programmer with 3+ years of industry experience and a passion for creating unique and inclusive games. I am highly
 proficient in C#, C++, Python, HTML, CSS and JavaScript, with a strong ability to write high-quality code. I excel in collaborating with team members to achieve design goals and ensure target level of polish and performance. 
 I am self-directed and autonomous worker, able to effectively manage time and communicate in a remote working environment. 
 
