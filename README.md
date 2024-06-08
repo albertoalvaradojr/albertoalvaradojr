@@ -8,7 +8,7 @@ I am self-directed and able to effectively manage time and communicate in a remo
 
 <br>
 <br>
-Overall, I have a passion for programming, and every bug that comes with it. 🪲
+Overall, I have a passion for programming and every bug that comes with it. 🪲
 
 
 
