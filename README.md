@@ -1,17 +1,19 @@
 # Alberto Alvarado Jr
 
-🎮 Gameplay & Systems Developer | Unity / Unreal Engine | C# | Python
+🎮 Gameplay Programmer | Unity • Unreal Engine • C# • C++
 
-I build interactive systems, gameplay mechanics, and multiplayer experiences with a focus on clean architecture and real-time performance.
+Game Programmer with 6+ years of professional experience developing gameplay systems, multiplayer features, AI mechanics, and development tools using Unity and Unreal Engine.
 
 ---
 
 ## 🧠 What I Do
-- Gameplay systems (combat, movement, abilities)
-- UI + game loop design
-- Multiplayer prototypes
-- Tooling and system optimization
-- Interactive simulation-style mechanics
+
+• Gameplay systems (combat, movement, abilities)
+• Multiplayer systems and networking
+• AI behaviors and decision systems
+• UI and player feedback systems
+• Tools development and workflow optimization
+• Interactive simulation and gameplay mechanics
 
 ---
 
@@ -26,8 +28,15 @@ I build interactive systems, gameplay mechanics, and multiplayer experiences wit
 ## 🚀 Featured Projects
 
 ### 🎯 Multiplayer Arena Prototype
-Team-based multiplayer game with objective-based progression and combat systems.  
-Built core gameplay loop, UI systems, and interactive mechanics.
+Team-based multiplayer game featuring objective-based progression, combat systems, and networked gameplay.
+
+Technologies:
+Unreal Engine 5
+C++
+Multiplayer Networking  
+Lyra
+  
+
 
 ### 🗺️ Gameplay UI + Minimap System
 Designed and implemented real-time UI systems including minimap tracking, team status indicators, and player feedback systems.
@@ -38,12 +47,16 @@ Developed modular systems for player movement, combat logic, and interactive obj
 ---
 
 ## 🎯 Current Focus
-- Landing a junior gameplay / systems developer role
-- Building multiplayer and combat-focused projects
-- Improving performance and scalability in game systems
+
+• Gameplay Programming
+• Multiplayer and Networked Systems
+• AI and Combat Systems
+• Performance Optimization
+• Tools Development
 
 ---
 
 ## 📫 Contact
-- GitHub: github.com/albertoalvaradojr
-- Open to internships, junior roles, and remote opportunities
+ LinkedIn: https://www.linkedin.com/in/alberto-alvarado-jr/
+• GitHub: github.com/albertoalvaradojr
+• Open to Gameplay Programmer and Software Engineering opportunities
