@@ -39,7 +39,7 @@ Lyra
 ---
 
 ## 🎯 Current Focus
-<br>
+
 • Gameplay Programming<br>
 • Multiplayer and Networked Systems<br>
 • AI and Combat Systems<br>
@@ -51,5 +51,5 @@ Lyra
 ## 📫 Contact
 
 LinkedIn: https://www.linkedin.com/in/alberto-alvarado-jr/<br>
-GitHub: github.com/albertoalvaradojr<br>
-Open to Gameplay Programmer and Software Engineering opportunities
+Open to Gameplay Programmer, Unity Developer,
+Unreal Developer, and Software Engineering opportunities.
