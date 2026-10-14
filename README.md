@@ -7,13 +7,13 @@ Game Programmer with 6+ years of professional experience developing gameplay sys
 ---
 
 ## 🧠 What I Do
-
-• Gameplay systems (combat, movement, abilities)
-• Multiplayer systems and networking
-• AI behaviors and decision systems
-• UI and player feedback systems
-• Tools development and workflow optimization
-• Interactive simulation and gameplay mechanics
+<br>
+• Gameplay systems (combat, movement, abilities)<br>
+• Multiplayer systems and networking<br>
+• AI behaviors and decision systems<br>
+• UI and player feedback systems<br>
+• Tools development and workflow optimization<br>
+• Interactive simulation and gameplay mechanics<br>
 
 ---
 
@@ -58,6 +58,6 @@ Developed modular systems for player movement, combat logic, and interactive obj
 
 ## 📫 Contact
 
- LinkedIn: https://www.linkedin.com/in/alberto-alvarado-jr/
-GitHub: github.com/albertoalvaradojr
+LinkedIn: https://www.linkedin.com/in/alberto-alvarado-jr/<br>
+GitHub: github.com/albertoalvaradojr<br>
 Open to Gameplay Programmer and Software Engineering opportunities
