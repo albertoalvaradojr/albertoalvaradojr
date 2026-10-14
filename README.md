@@ -19,8 +19,8 @@ Game Programmer with 6+ years of professional experience developing gameplay sys
 
 ## ⚙️ Tech Stack
 - Game Engines: Unity, Unreal Engine 5
-- Languages: C#, C++, Python
-- Tools: Git, Visual Studio, Blender (basic), Visual Scripting
+- Languages: C#, C++
+- Tools: Git, Visual Studio, Visual Scripting
 - Other: UI systems, game architecture, debugging complex logic
 
 ---
