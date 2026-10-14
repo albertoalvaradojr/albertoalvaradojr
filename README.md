@@ -57,6 +57,7 @@ Developed modular systems for player movement, combat logic, and interactive obj
 ---
 
 ## 📫 Contact
+
  LinkedIn: https://www.linkedin.com/in/alberto-alvarado-jr/
-• GitHub: github.com/albertoalvaradojr
-• Open to Gameplay Programmer and Software Engineering opportunities
+GitHub: github.com/albertoalvaradojr
+Open to Gameplay Programmer and Software Engineering opportunities
