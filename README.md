@@ -47,12 +47,12 @@ Developed modular systems for player movement, combat logic, and interactive obj
 ---
 
 ## 🎯 Current Focus
-
-• Gameplay Programming
-• Multiplayer and Networked Systems
-• AI and Combat Systems
-• Performance Optimization
-• Tools Development
+<br>
+• Gameplay Programming<br>
+• Multiplayer and Networked Systems<br>
+• AI and Combat Systems<br>
+• Performance Optimization<br>
+• Tools Development<br>
 
 ---
 
