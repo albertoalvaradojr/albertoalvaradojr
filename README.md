@@ -36,14 +36,6 @@ C++
 Multiplayer Networking  
 Lyra
   
-
-
-### 🗺️ Gameplay UI + Minimap System
-Designed and implemented real-time UI systems including minimap tracking, team status indicators, and player feedback systems.
-
-### 🤖 Gameplay Mechanics Framework
-Developed modular systems for player movement, combat logic, and interactive objects using engine scripting tools.
-
 ---
 
 ## 🎯 Current Focus
